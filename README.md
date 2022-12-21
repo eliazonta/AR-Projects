@@ -33,7 +33,7 @@ You won't see any fancy / top scripting filters mainly because I fell in love wi
 ## 2. Dark Academy
 |Original |Filtered |
 |--|--|
-| ![](assets/noF3.JPG) | ![](Dark-Academy/assets/IMG_9013.jpg) |
+| ![](assets/noF3.jpg) | ![](Dark-Academy/assets/IMG_9013.jpg) |
 | ![](assets/neutral.png) | ![](Dark-Academy/Dark_AcademyV1/textures/lut.jpg) |
 ----------
 
