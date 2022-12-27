@@ -39,7 +39,7 @@ You won't see any fancy / top scripting filters mainly because I fell in love wi
 
 <a name="id1"/>
 
-## 3. Indoor 1
+## 3. Indoor 1 [WIP]
 |Original |Filtered |
 |--|--|
 | ![content needed 🥲]() | ![content needed 🥲]() |
@@ -48,7 +48,7 @@ You won't see any fancy / top scripting filters mainly because I fell in love wi
 
 <a name="id2"/>
 
-## 4. Indoor 2
+## 4. Indoor 2 [WIP]
 |Original |Filtered |
 |--|--|
 | ![content needed 🥲]() | ![content needed 🥲]() |
