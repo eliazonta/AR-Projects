@@ -52,7 +52,7 @@ You won't see any fancy / top scripting filters mainly because I fell in love wi
 |Original |Filtered |
 |--|--|
 | ![content needed 🥲]() | ![content needed 🥲]() |
-| ![](assets/neutral.png) | ![](indoor2/lut.jpg) |
+| ![](assets/neutral.png) | ![](indoor2/indoor2/textures/lut.jpg) |
 ----------
 
 
