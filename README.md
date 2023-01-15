@@ -1,7 +1,7 @@
 ![](./assets/header.jpeg)
 # **AR Projects**
 The projects in this repo has been created with [Meta Spark AR](https://sparkar.facebook.com/ar-studio/) . 
-I started creating AR filters just for my personal use, some of them are published on my [Instagram](/link).
+I started creating AR filters just for my personal use, some of them are published on my [Instagram](/).
 
 You won't see any fancy / top scripting filters mainly because I fell in love with minimalism and if these are personal projects I create filters that I would like to use and enjoy. Cheers 💙
 
@@ -13,9 +13,9 @@ You won't see any fancy / top scripting filters mainly because I fell in love wi
 2. [Dark Academy](#da)
 3. [Indoor 1](#id1) 
 4. [Indoor 2](#id2) 
-5. [M1]()
+5. [M1 [WIP]]()
 6. [P5](#p5)
-7. [Vinty]()
+7. [Vinty [WIP]]()
 
 -----------------------
 
