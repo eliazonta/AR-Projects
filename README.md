@@ -39,19 +39,19 @@ You won't see any fancy / top scripting filters mainly because I fell in love wi
 
 <a name="id1"/>
 
-## 3. Indoor 1 [WIP]
+## 3. Indoor 1 
 |Original |Filtered |
 |--|--|
-| ![content needed 🥲]() | ![content needed 🥲]() |
+| ![](assets/noF5.JPG) | ![](Indoor1/assets/id1.JPG) |
 | ![](assets/neutral.png) | ![](indoor1/indoor1/textures/lut.jpg) |
 ----------
 
 <a name="id2"/>
 
-## 4. Indoor 2 [WIP]
+## 4. Indoor 2 
 |Original |Filtered |
 |--|--|
-| ![content needed 🥲]() | ![content needed 🥲]() |
+| ![](assets/noF4.jpg) | ![](indoor2/assets/id2.JPG) |
 | ![](assets/neutral.png) | ![](indoor2/indoor2/textures/lut.jpg) |
 ----------
 
@@ -61,7 +61,6 @@ You won't see any fancy / top scripting filters mainly because I fell in love wi
 ## 5. P5
 |Original |Filtered |
 |--|--|
-| ![](assets/noF2.JPG) | ![content needed 🥲](P5/media/2C5398B0-4A0F-473C-A885-D5B3CD5D672D.JPG) |
+| ![](assets/noF2.JPG) | ![](P5/media/2C5398B0-4A0F-473C-A885-D5B3CD5D672D.JPG) |
 | ![](assets/neutral.png) | ![](P5/P5_lut.jpg) |
 ----------
-# [ WIP👨🏻‍💻😵‍💫 ]
